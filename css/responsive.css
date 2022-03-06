@@ -1,0 +1,1339 @@
+@media (max-width: 575px) {
+
+    /* =============menu part start=============== */
+    .mani_manu .navbar-brand {
+        height: 50px;
+        width: 175px;
+        line-height: 44px;
+
+    }
+
+    .mani_manu {
+        background: #e23e38;
+        top: -8px;
+        height: 57px;
+    }
+
+    .mani_manu .navbar-toggler:focus {
+
+        box-shadow: 0 0 0 0;
+    }
+
+    .mani_manu button i {
+        color: #fff;
+    }
+
+    .mani_manu #navbarSupportedContent {
+        background: #e23e38;
+        text-align: center;
+    }
+
+    .mani_manu ul li a::after {
+
+        display: none;
+    }
+
+    .mani_manu ul li a {
+
+        line-height: 30px;
+
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        margin-top: -8px;
+    }
+
+    .mani_manu.fixxed {
+
+        height: 52px;
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        line-height: 33px;
+    }
+
+    /* =============menu part end=============== */
+    /* =============banner part start=============== */
+
+    #banner .banner_slider {
+        padding: 120px 0 60px;
+
+    }
+
+    #banner .banner_slider .banner_text h2::before,
+    #banner .banner_slider .banner_text h2::after,
+    #banner .banner_slider .banner_text h1::after,
+    #banner .banner_slider .banner_text h1::before,
+    #banner .banner_slider .banner_text p::before,
+    #banner .banner_slider .banner_text p::after {
+        display: none;
+    }
+
+    #banner .banner_slider .banner_text h2 {
+
+        font-size: 20px;
+
+    }
+
+    #banner .banner_slider .banner_text h1 {
+
+        font-size: 35px;
+
+        margin-top: 2px;
+
+    }
+
+    #banner .banner_slider .banner_text p {
+
+        margin-top: 2px;
+
+    }
+
+    #banner .banner_slider .banner_text a {
+
+        margin: 10px 12px;
+    }
+
+    #banner .slick-dots li {
+        margin: 0 3px;
+    }
+
+
+    /* =============banner part end=============== */
+    /* =============about part start=============== */
+    #about {
+        padding: 10px 0;
+    }
+
+    #about .about_text p {
+
+        text-align: justify;
+        padding: 0px 0 15px;
+    }
+
+    #about .about_text p span {
+        display: block;
+        margin-top: 15px;
+    }
+
+    /* =============about part end=============== */
+    /* =============gallery part start=============== */
+    #gallery {
+        margin-top: -40px;
+    }
+
+    #gallery .gallery_banner .gal_img:last-child {
+        margin-bottom: 24px;
+    }
+
+    #gallery .gallery_banner {
+        padding: 30px 0 0;
+
+    }
+
+    #gallery .gallery_banner .gal_img .overly {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    /* =============gallery part end=============== */
+    /* =============team part start=============== */
+
+    #team {
+        padding: 0px 0;
+    }
+
+    #team .bigg .team_img {
+        margin-top: 30px;
+
+    }
+
+    #team .bigg {
+        -webkit-transform: translateY(-40px);
+        transform: translateY(-40px);
+    }
+
+    #team .bigg .team_img .overly {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    #team .bigg .team_text p {
+
+        transform: scale(1);
+
+    }
+
+    #team .bigg .team_text {
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #team .bigg .team_text {
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        margin-top: 0px;
+    }
+
+    /* =============team part end=============== */
+    /* =============testmonial part start=============== */
+    #member {
+
+        padding-top: 10px;
+    }
+
+    .text-center {
+
+        margin-top: 30px;
+    }
+
+    #member .common_gallery {
+        margin-bottom: -5px;
+    }
+
+    /* =============testmonial part end=============== */
+    /* =============testmonial part start=============== */
+    #testmonial {
+        margin-top: -50px;
+    }
+
+    .test_row.mem_res {
+        padding: 0 40px;
+        margin-top: 10px;
+    }
+
+    #testmonial .test_banner .pera {
+
+        padding: 0 40px;
+    }
+
+    #member {
+        padding: 50px 0;
+    }
+
+    #member .member_main:hover h3 {
+        background: #e23e38;
+    }
+
+    #member .member_main:hover a {
+        background: #e23e38;
+    }
+
+    /* =============testmonial part end=============== */
+    /* ============countdown part start=============== */
+    #counter h2 {
+
+        font-size: 23px;
+
+    }
+
+    #counter p {
+
+        font-size: 14px;
+
+    }
+
+    /* ============countdown part end=============== */
+    /* =============classes part start=============== */
+    #classes {
+        padding: 0px 0;
+    }
+
+    #classes .classes_manu li {
+        width: 33.33%;
+    }
+
+    #classes .classes_manu li button {
+
+        border-bottom: 1px solid red;
+        background: #f1f1f1;
+    }
+
+    #classes .class_text {
+        margin-top: 55px;
+    }
+
+    #classes .class_text ul li {
+        width: 49.16%;
+
+        padding: 20px 0;
+
+    }
+
+    #classes .class_text ul li p {
+
+        font-size: 12px;
+        margin-bottom: 0px;
+
+    }
+
+    #classes .class_text ul li span {
+
+        font-size: 10px;
+
+    }
+
+    #classes .class_text ul li:nth-child(2),
+    #classes .class_text ul li:nth-child(4),
+    #classes .class_text ul li:nth-child(6),
+    #classes .class_text ul li:nth-child(8),
+    #classes .class_text ul li:nth-child(10) {
+        margin-right: 0;
+    }
+
+    #classes .class_text ul li:nth-child(6),
+    #classes .class_text ul li:nth-child(7),
+    #classes .class_text ul li:nth-child(8),
+    #classes .class_text ul li:nth-child(9),
+    #classes .class_text ul li:nth-child(10) {
+        margin-bottom: 5px;
+    }
+
+    #classes .class_text ul li:nth-child(5) {
+        margin-right: 5px;
+    }
+
+    /* =============classes part end=============== */
+    /* =============client part start=============== */
+
+    #client {
+        padding: 20px 0 0px;
+    }
+
+    /* =============client part end=============== */
+    /* =============footer part start=============== */
+    #footer .foot_logo {
+        padding: 15px 0;
+      
+    }
+    #footer .foot_mid .footer_head {
+        padding: 15px 20px !important;
+    }
+    #footer .foot_mid .foot_second {
+      
+        padding: 0 22px;
+    }
+    #footer .foot_mid .footer_head {
+      
+        margin: -5px -20px;
+    }
+    #footer .foot_mid .foot_first {
+        margin-top: -6px;
+        padding: 0 25px;
+    }
+    #footer .foot_mid .footer_head {
+        padding: 15px 43px !important;
+    }
+
+    #footer .foot_mid .footer_head {
+        padding: 15px 0;
+    }
+
+    .res_foot li {
+        width: 40%;
+    }
+
+    .res_foot2 {
+        width: 60%;
+        float: right;
+        text-align: right;
+        margin-top: -156px;
+
+    }
+
+    #footer .foot_mid .foot_second p {
+
+        padding-bottom: 0px;
+
+    }
+
+    .foot_third {
+        margin-bottom: -15px;
+    }
+
+    #footer .foot_mid .foot_third ul li {
+
+        margin-bottom: 15px;
+
+    }
+
+    .footer_head_f {
+
+        margin-bottom: -15px;
+    }
+
+    #footer .foot_mid .foot_last p {
+
+        margin-bottom: 5px;
+    }
+
+    #footer .foot_mid .foot_last p i {
+
+        font-size: 15px;
+    }
+    .foot_last {
+        padding: 0 10px;
+    }
+
+    .back_top {
+       
+        right: 5px;
+       
+        width: 20px;
+        height: 30px;
+       
+        line-height: 30px;
+        
+      
+        font-size: 15px;
+      
+        border-radius: 5px;
+    }
+    .foot_bottom.text-center p {
+        margin-bottom: 0px !important;
+        font-size: 10px;
+    }
+    #footer .foot_bottom a {
+       
+        font-size: 10px;
+       
+    }
+    #footer .foot_bottom {
+        padding: 10px 0;
+    
+        margin-top: 0px;
+    }
+    /* =============footer part end=============== */
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /* ======================main manu part start================== */
+    /* 
+  .mani_manu {
+	top: 0px;
+    background: red;
+}
+.navbar-toggler {
+	color: white;
+	margin-top: -15px;
+	font-size: 25px;
+}
+.mani_manu .navbar-brand {
+	height: 50px;
+	line-height: 42px;
+	margin-top: -8px;
+} */
+
+    .mani_manu .navbar-brand {
+        height: 50px;
+        width: 175px;
+        line-height: 44px;
+
+    }
+
+    .mani_manu {
+        /* background: #e23e38; */
+        top: -8px;
+        height: 57px;
+    }
+
+    .mani_manu .navbar-toggler:focus {
+
+        box-shadow: 0 0 0 0;
+    }
+
+    .mani_manu button i {
+        color: #fff;
+    }
+
+    .mani_manu #navbarSupportedContent {
+        background: #e23e38;
+        text-align: center;
+    }
+
+    .mani_manu ul li a::after {
+
+        display: none;
+    }
+
+    .mani_manu ul li a {
+
+        line-height: 30px;
+
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        margin-top: -8px;
+    }
+
+    .mani_manu.fixxed {
+
+        height: 52px;
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        line-height: 33px;
+    }
+
+    /* ======================main manu part end================== */
+    /* ======================banner manu part start================== */
+    #banner .banner_slider {
+        padding: 120px 0 60px;
+
+    }
+
+    #banner .banner_slider .banner_text h2::before,
+    #banner .banner_slider .banner_text h2::after,
+    #banner .banner_slider .banner_text h1::after,
+    #banner .banner_slider .banner_text h1::before,
+    #banner .banner_slider .banner_text p::before,
+    #banner .banner_slider .banner_text p::after {
+        display: none;
+    }
+
+    #banner .banner_slider .banner_text h2 {
+
+        font-size: 20px;
+
+    }
+
+    #banner .banner_slider .banner_text h1 {
+
+        font-size: 35px;
+
+        margin-top: 2px;
+
+    }
+
+    #banner .banner_slider .banner_text p {
+
+        margin-top: 2px;
+
+    }
+
+    #banner .banner_slider .banner_text a {
+
+        margin: 10px 12px;
+    }
+
+    #banner .slick-dots li {
+        margin: 0 3px;
+    }
+
+
+
+
+    /* ======================banner manu part end================== */
+    /* ======================about manu part start================== */
+
+    #about {
+        padding: 35px 0;
+    }
+
+    #gallery .gallery_banner .gal_img:last-child {
+        margin-bottom: 24px;
+    }
+
+    #gallery .gallery_banner {
+        padding: 30px 0 0;
+
+    }
+
+    #gallery .gallery_banner .gal_img .overly {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+
+    /* ======================about manu part end================== */
+    /* ======================team part start================== */
+    #team {
+        padding: 35px 0;
+    }
+
+    #team .bigg {
+
+        width: 50%;
+    }
+
+    #team .bigg .team_img {
+        margin-top: 35px;
+
+    }
+
+    #team .bigg .team_img .overly {
+
+        transform: scale(1) !important;
+    }
+
+    #team .bigg .team_text p {
+
+        transform: scale(1) !important;
+    }
+
+    #team .bigg .team_text {
+        border-left: 1px solid #ddd !important;
+        border-right: 1px solid #ddd !important;
+        border-bottom: 1px solid #ddd !important;
+    }
+
+    #team .bigg {
+
+        transform: translateY(-40px) !important;
+    }
+
+    /* ======================team part end================== */
+    /* ======================testmonial manu part start================== */
+
+    #testmonial {
+        margin-top: -45px;
+    }
+
+
+    /* ======================testmonial manu part end================== */
+    /* ======================member manu part start================== */
+
+    #member {
+        padding: 35px 0 0;
+    }
+
+    #member .member_main h3,
+    #member .member_main a {
+        background: #e23e38;
+    }
+
+    #member .member_main a {
+
+        margin-bottom: 30px;
+    }
+
+    #member .member_main ul li {
+        padding: 3px 0;
+
+    }
+
+    #member .member_main h2 {
+
+        padding: 12px 0;
+
+    }
+
+    #member .member_main h3 {
+        padding: 12px 0;
+
+    }
+
+    #member .member_main a {
+
+        font-size: 12px;
+
+        padding: 5px 0;
+
+    }
+
+    /* ======================member manu part end================== */
+    /* ======================count manu part start================== */
+
+    #counter {
+        padding: 13px 0;
+
+    }
+
+    #counter h2 {
+
+        font-size: 25px;
+
+    }
+
+    /* ======================count manu part end================== */
+    /* ======================class manu part start================== */
+
+    #classes {
+        padding: 35px 0;
+    }
+
+    #classes .class_text ul li {
+        width: 19.22%;
+        padding: 7px 0;
+    }
+
+    #classes .class_text ul li p {
+
+        font-size: 12px;
+        margin-bottom: 0px;
+
+    }
+
+    .fa-solid.fa-dumbbell {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+
+    #classes .class_text ul li span {
+
+        font-size: 9px;
+
+    }
+
+
+    /* ======================class manu part end================== */
+    /* ======================client part start================== */
+    #client {
+        padding: 0 0 35px;
+    }
+
+    #client .client_slider .prv_arr {
+
+        left: -80px;
+
+    }
+
+    #client .client_slider .nxt_arr {
+
+        right: -80px;
+    }
+
+
+    /* ======================client part end================== */
+    /* =====================footer part start================== */
+
+    #footer .foot_logo {
+        padding: 15px 0;
+
+    }
+
+    #footer .foot_mid .footer_head {
+        padding: 15px 0;
+        width: 45% !important;
+    }
+
+    #footer .foot_mid .foot_first {
+
+        width: 50% !important;
+    }
+
+
+    /* ====================== */
+    .col-lg-4.dfd {
+        width: 30%;
+    }
+
+    .col-lg-8.ddd {
+        width: 58%;
+    }
+
+    #footer .foot_mid .footer_head {
+
+        width: 40% !important;
+    }
+
+    .col-lg-3.dd3.px-0 {
+        width: 50%;
+
+        right: 0px;
+        position: absolute;
+    }
+
+    .f00t {
+        width: 50%;
+    }
+
+    #footer .foot_mid .foot_third ul li {
+
+        margin-bottom: 5px;
+
+    }
+
+    .col-lg-3.mmm {
+        margin-top: 48px;
+    }
+
+    .col-lg-3.f0004.px-0 {
+        width: 46%;
+        position: absolute;
+        right: 0;
+        top: 325px;
+    }
+
+    #footer .foot_mid .foot_last p {
+
+        margin-bottom: 7px;
+    }
+
+    #footer .foot_mid .foot_last p i {
+
+        font-size: 15px;
+    }
+
+    #footer .foot_mid .foot_last {
+        margin-top: -2px;
+    }
+
+    #footer .foot_mid .foot_last .footer_head_f {
+        padding: 14px 0 14px;
+    }
+
+    /* =====================footer part end================== */
+    /* ======================main manu part start================== */
+
+
+
+
+    /* ======================main manu part end================== */
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* ======================main manu part start================== */
+
+    .mani_manu .navbar-brand {
+        height: 50px;
+        width: 175px;
+        line-height: 44px;
+
+    }
+
+    .mani_manu {
+        background: #e23e38;
+        top: -8px;
+        height: 57px;
+    }
+
+    .mani_manu .navbar-toggler:focus {
+
+        box-shadow: 0 0 0 0;
+    }
+
+    .mani_manu button i {
+        color: #fff;
+    }
+
+    .mani_manu #navbarSupportedContent {
+        background: #e23e38;
+        text-align: center;
+    }
+
+    .mani_manu ul li a::after {
+
+        display: none;
+    }
+
+    .mani_manu ul li a {
+
+        line-height: 30px;
+
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        margin-top: -8px;
+    }
+
+    .mani_manu.fixxed {
+
+        height: 52px;
+    }
+
+    .mani_manu.fixxed .navbar-brand {
+
+        line-height: 33px;
+    }
+
+
+    /* ======================main manu part end================== */
+    /* ======================banner part start================== */
+
+    #banner .banner_slider {
+        padding: 175px 0 50px;
+      
+    }
+
+    #banner .banner_slider .banner_text h2 {
+        font-size: 25px;
+       
+    }
+    #banner .banner_slider .banner_text h1 {
+     
+        font-size: 40px;
+      
+        margin-top: 5px;
+       
+    }
+    #banner .banner_slider .banner_text p {
+       
+        margin-top: 5px;
+     
+    }
+    #banner .banner_slider .banner_text a {
+     
+        font-size: 11px;
+     
+        margin: 5px 12px;
+    }
+    #banner .slick-dots {
+       
+        bottom: 20px;
+      
+    }
+    #banner .banner_slider .banner_text h2::before,
+    #banner .banner_slider .banner_text h2::after,
+    #banner .banner_slider .banner_text h1::before,
+    #banner .banner_slider .banner_text h1::after,
+    #banner .banner_slider .banner_text p::before,
+    #banner .banner_slider .banner_text p::after{
+       
+        display: none;
+    }
+    /* ======================banner part end================== */
+    /* ======================about part start================== */
+
+    #about {
+        padding: 44px 0;
+    }
+
+    #about .about_text p {
+
+      
+        padding: 0px 0 15px;
+    }
+
+    #about .about_text p span {
+        display: block;
+        margin-top: 15px;
+    }
+
+
+
+    /* ======================about part end================== */
+    /* ======================gellary part start================== */
+    .col-lg-4.gel_res {
+        width: 33.33%;
+    }
+
+
+    /* ======================gellary part end================== */
+    /* ======================team part start================== */
+    #team {
+        padding: 35px 0;
+    }
+
+    #team .common_gallery {
+        margin-bottom: 0px;
+    }
+    #team .bigg {
+       
+        width: 25% ;
+    }
+    #team .bigg {
+        -webkit-transform: translateY(-40px);
+        transform: translateY(-40px);
+    }
+    #team .bigg .team_img .overly {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    #team .bigg .team_img .overly ul li a {
+        width: 20px;
+        height: 20px;
+       
+        line-height: 20px;
+       
+    }
+    #team .bigg .team_text h3 {
+     
+        font-size: 13px;
+     
+        padding-top: 8px;
+    }
+    #team .bigg .team_text span {
+     
+        font-size: 11px;
+        
+    }
+    #team .bigg .team_text p {
+      
+        font-size: 10px;
+      
+        line-height: 11px;
+      
+        margin-top: 0px;
+        
+    }
+    #team .bigg .team_text p {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    #team .bigg .team_text {
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+    /* ======================team part end================== */
+    /* ======================tesmonial part start================== */
+    #testmonial {
+        margin-top: -30px;
+    }
+
+
+
+    /* ======================tesmonial part end================== */
+    /* ======================member part start================== */
+
+    #member {
+        padding: 35px 0;
+    }
+
+    .col-lg-4.mem_res {
+        width: 33.33%;
+    }
+    #member .member_main h2 {
+       
+        font-size: 30px;
+       
+        padding: 15px 0;
+        
+    }
+    #member .member_main h2 span {
+      
+        font-size: 20px;
+       
+    }
+    #member .member_main h3 {
+      
+        font-size: 15px;
+      
+        padding: 15px 0;
+        
+    }
+    #member .member_main ul li {
+        padding: 4px 0;
+      
+        font-size: 14px;
+      
+    
+    }
+    #member .member_main a {
+     
+        font-size: 11px;
+       
+        padding: 6px 0;
+        
+    }
+    #counter {
+        padding: 25px 0;
+       
+    }
+    /* ======================member part end================== */
+    /* ======================classes part start================== */
+    #classes {
+        padding: 35px 0;
+    }
+
+    #classes .class_text ul li {
+        width: 19.42%;
+      
+        padding: 20px 0;
+        
+    }
+    #classes .class_text ul li p {
+      
+        font-size: 13px;
+      
+        margin-bottom: 0;
+    }
+    #classes .class_text ul li span {
+      
+        font-size: 11px;
+     
+    }
+    #client .client_slider .nxt_arr {
+       
+        right: -29px;
+        top: 46%;
+     
+    }
+    #client .client_slider .prv_arr {
+        left: -29px;
+        top: 46%;
+    }
+    /* ======================classes part end================== */
+    /* ======================footer part start================== */
+    #footer{
+        right: -29px;
+    top: 46%;
+    }
+    #footer .foot_logo {
+        padding: 15px 0;
+
+    }
+
+    #footer .foot_mid .footer_head {
+        padding: 15px 0;
+        width: 45% !important;
+    }
+
+    #footer .foot_mid .foot_first {
+
+        width: 50% !important;
+    }
+
+
+    /* ====================== */
+    .col-lg-4.dfd {
+        width: 30%;
+    }
+
+    .col-lg-8.ddd {
+        width: 58%;
+    }
+
+    #footer .foot_mid .footer_head {
+
+        width: 40% !important;
+    }
+
+    .col-lg-3.dd3.px-0 {
+        width: 50%;
+
+        right: 0px;
+        position: absolute;
+    }
+
+    .f00t {
+        width: 50%;
+    }
+
+    #footer .foot_mid .foot_third ul li {
+
+        margin-bottom: 5px;
+
+    }
+
+    .col-lg-3.mmm {
+        margin-top: 48px;
+    }
+
+    .col-lg-3.f0004.px-0 {
+        width: 46%;
+        position: absolute;
+        right: 0;
+        top: 325px;
+    }
+
+    #footer .foot_mid .foot_last p {
+
+        margin-bottom: 7px;
+    }
+
+    #footer .foot_mid .foot_last p i {
+
+        font-size: 15px;
+    }
+
+    #footer .foot_mid .foot_last {
+        margin-top: -2px;
+    }
+
+    #footer .foot_mid .foot_last .footer_head_f {
+        padding: 14px 0 14px;
+    }
+
+
+
+    /* ======================footer part end================== */
+   
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+ /* ======================banner part start================== */
+
+ #banner .banner_slider .banner_text h2::before {
+	
+	top: 25px;
+	width: 106px;
+	
+}
+#banner .banner_slider .banner_text h2::after {
+	
+	top: 25px;
+	width: 162px;
+	
+}
+
+#banner .banner_slider .banner_text h1::after, 
+#banner .banner_slider .banner_text h1::before {
+	
+	top: -20px;
+	
+	height: 210px;
+	
+}
+#banner .banner_slider .banner_text p::before {
+
+	top: 97px;
+	width: 30px;
+	
+}
+#banner .banner_slider .banner_text p::after {
+
+	top: 97px;
+	width: 57px;
+
+}
+    /* ======================banner part end================== */
+ /* ======================about part start================== */
+
+ #about {
+	padding: 40px 0;
+}
+
+#about .about_text p {
+	
+	font-size: 13px;
+	
+	line-height: 20px;
+	margin-top: 0px;
+}
+#about .about_text p span {
+	
+	margin-top: 10px;
+}
+    /* ======================about part end================== */
+ /* ======================team part start================== */
+
+ #team {
+	padding: 40px 0;
+}
+#team .bigg .team_img {
+	margin-top: 30px;
+	
+}
+
+    /* ======================team part end================== */
+ /* ======================testimonial part start================== */
+
+
+ #testmonial {
+	margin-top: -40px;
+}
+
+#member {
+	padding: 40px 0;
+}
+#classes {
+	padding: 40px 0;
+}
+#classes .class_text ul li {
+	width: 19.58%;
+
+}
+    /* ======================testimonial part end================== */
+ /* ======================footer part start================== */
+
+ #footer {
+	margin-top: -40px;
+}
+
+#footer .foot_logo {
+	padding: 15px 0;
+
+}
+.row.text-white {
+	padding: 0 10px;
+}
+#footer .foot_mid .foot_last .footer_head_f {
+	padding: 0px 0 15px;
+}
+#footer .foot_mid .foot_last {
+
+	margin-left: 10px;
+}
+.foot_bottom.text-center p {
+	margin-bottom: 0px;
+}
+    /* ======================footer part end================== */
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+     /* ===============================banner part start============================== */
+    #banner .banner_slider .banner_text h2::before {
+    
+        width: 151px;
+       
+    }
+    #banner .banner_slider .banner_text h2::after {
+      
+        width: 202px;
+       
+    }
+    #banner .banner_slider .banner_text p::before {
+      
+        width: 81px;
+        
+    }
+    #banner .banner_slider .banner_text p::after {
+       
+        width: 109px;
+      
+    }
+   
+    /* ===============================banner part end============================== */
+    /* ===============================about part start============================== */
+
+    #about {
+        padding: 60px 0;
+    }
+    #about .about_text p {
+      
+        line-height: 23px;
+        margin-top: 0px;
+    }
+    #about .about_text p span {
+       
+        margin-top: 15px;
+    }
+    #team {
+        padding: 60px 0;
+    }
+    #team .bigg .team_img {
+        margin-top: 30px;
+       
+    }
+    #testmonial {
+        margin-top: -50px;
+    }
+    #member {
+        padding: 60px 0;
+    }
+    #classes {
+        padding: 60px 0;
+    }
+    #classes .class_text ul li {
+        width: 19.65%;
+       
+    }
+    /* ===============================about part end============================== */
+    /* ===============================about part start============================== */
+
+    
+
+    /* ===============================about part end============================== */
+    /* ===============================about part start============================== */
+
+
+
+    /* ===============================about part end============================== */
+}
+
+@media (min-width: 1400px) {}
